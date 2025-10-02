@@ -6,7 +6,7 @@ def main():
     queries = [
         "What is in document 3?",
         "What is the price of item_1 in CSV?",
-        "Explain topic X from KB."
+        "Explain topic Natural Language Processing from KB."
     ]
     
     for q in queries:
