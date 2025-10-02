@@ -33,8 +33,3 @@ This project is a Mini Agentic Pipeline built to demonstrate AI-driven workflows
 4. **Run the pipeline**
    ```bash
     python main.py
-
-
-
-
-
