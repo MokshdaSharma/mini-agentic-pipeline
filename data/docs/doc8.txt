@@ -1,0 +1,1 @@
+Big Data refers to datasets that are too large and complex to be processed with traditional methods, often characterized by high volume, velocity, and variety.

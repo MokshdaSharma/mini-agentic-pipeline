@@ -1,0 +1,1 @@
+Computer Vision is an AI discipline that enables machines to interpret and process visual information from the world, allowing for applications like image recognition, facial detection, and self-driving cars.

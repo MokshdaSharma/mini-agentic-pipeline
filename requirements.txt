@@ -1,0 +1,11 @@
+google-generativeai
+langchain
+langchain-community 
+faiss-cpu
+chromadb
+tiktoken
+pandas
+requests
+python-dotenv
+tabulate
+sentence-transformers

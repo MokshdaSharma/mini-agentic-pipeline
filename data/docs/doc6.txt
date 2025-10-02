@@ -1,0 +1,1 @@
+Reinforcement Learning is a machine learning approach where agents learn to make decisions by receiving rewards or penalties based on their actions in an environment.
